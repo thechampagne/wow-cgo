@@ -20,6 +20,9 @@ make
 make test
 ```
 
+### Screencast
+<img src="https://raw.githubusercontent.com/thechampagne/wow-cgo/main/.github/assets/screencast.gif"/> 
+
 ### Example
 
 ```c
